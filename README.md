@@ -84,7 +84,8 @@ Using Firebase Cloud Messaging (FCM), users receive real-time updates and alerts
 
 The app supports two South African languages:
 	•	English
-	•	Tshivenda
+	•	Zulu
+    •   Afrikaans
 
 Users can switch between languages in the settings screen.
 
